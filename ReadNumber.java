@@ -13,7 +13,7 @@ public class ReadNumber {
         long distance = input.nextLong();
 
         System.out.println("radius: " + radius + ", age: " + age + ", distance: " + distance);
-
-
+         
+ 
     }
 }
