@@ -1,4 +1,4 @@
-public class Product {
+public class Product {       //Product details print excercise
     public static void main(String[] args) {
         int id = 101;
         String title, description,category,price ;
@@ -13,5 +13,5 @@ public class Product {
         System.out.println("description :"+description);
         System.out.println("category :"+category);
 
-    }
+    }  
 }
