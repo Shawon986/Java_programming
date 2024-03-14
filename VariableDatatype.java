@@ -6,5 +6,8 @@ public class VariableDatatype {
         b= true ;
         System.out.println(b);
         System.out.println("c ="+c);
+
+        int i = 56;
+        System.out.println("i ="+i); //Dynamic Initialization
     }
 }
