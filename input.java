@@ -11,6 +11,10 @@ public class input {
        int age = scan.nextInt();
        System.out.println("Your age is : " + age);
 
+       System.out.println("Enter your height :");
+       float height = scan.nextFloat();
+       System.out.println("Your height is :" + height);
+
        scan.close();
 
 
