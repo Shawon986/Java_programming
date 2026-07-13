@@ -15,6 +15,10 @@ public class input {
        float height = scan.nextFloat();
        System.out.println("Your height is :" + height);
 
+       System.out.println("Enter your city :");
+       String city = scan.nextLine();
+       System.out.println("I live in :" + city);
+
        scan.close();
 
 
